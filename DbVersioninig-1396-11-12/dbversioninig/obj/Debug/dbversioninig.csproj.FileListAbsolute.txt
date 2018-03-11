@@ -1,0 +1,22 @@
+C:\Users\Roshanak\Desktop\dbversioninig\dbversioninig\bin\Debug\dbversioninig.exe
+C:\Users\Roshanak\Desktop\dbversioninig\dbversioninig\bin\Debug\dbversioninig.pdb
+C:\Users\Roshanak\Desktop\dbversioninig\dbversioninig\obj\Debug\dbversioninig.Form1.resources
+C:\Users\Roshanak\Desktop\dbversioninig\dbversioninig\obj\Debug\dbversioninig.Properties.Resources.resources
+C:\Users\Roshanak\Desktop\dbversioninig\dbversioninig\obj\Debug\dbversioninig.csproj.GenerateResource.Cache
+C:\Users\Roshanak\Desktop\dbversioninig\dbversioninig\obj\Debug\dbversioninig.exe
+C:\Users\Roshanak\Desktop\dbversioninig\dbversioninig\obj\Debug\dbversioninig.pdb
+C:\Users\Roshanak\Desktop\dbversioninig\dbversioninig\bin\Debug\dbversioninig.exe.config
+C:\Users\Roshanak\Desktop\dbversioninig\dbversioninig\obj\Debug\dbversioninig.Messages.resources
+C:\Users\Roshanak\Desktop\dbversioninig\dbversioninig\obj\Debug\dbversioninig.csprojResolveAssemblyReference.cache
+C:\Users\Roshanak\Desktop\DbVersioninig -Update\dbversioninig\bin\Debug\dbversioninig.exe.config
+C:\Users\Roshanak\Desktop\DbVersioninig -Update\dbversioninig\bin\Debug\dbversioninig.exe
+C:\Users\Roshanak\Desktop\DbVersioninig -Update\dbversioninig\bin\Debug\dbversioninig.pdb
+C:\Users\Roshanak\Desktop\DbVersioninig -Update\dbversioninig\obj\Debug\DbVersioninig.Form1.resources
+C:\Users\Roshanak\Desktop\DbVersioninig -Update\dbversioninig\obj\Debug\dbversioninig.Messages.resources
+C:\Users\Roshanak\Desktop\DbVersioninig -Update\dbversioninig\obj\Debug\dbversioninig.Properties.Resources.resources
+C:\Users\Roshanak\Desktop\DbVersioninig -Update\dbversioninig\obj\Debug\dbversioninig.csproj.GenerateResource.Cache
+C:\Users\Roshanak\Desktop\DbVersioninig -Update\dbversioninig\obj\Debug\dbversioninig.exe
+C:\Users\Roshanak\Desktop\DbVersioninig -Update\dbversioninig\obj\Debug\dbversioninig.pdb
+C:\Users\Roshanak\Desktop\DbVersioninig -Update\dbversioninig\obj\Debug\dbversioninig.csprojResolveAssemblyReference.cache
+C:\Users\Roshanak\Desktop\DbVersioninig\dbversioninig\bin\Debug\FarsiMessageBox.dll
+C:\Users\Roshanak\Desktop\DbVersioninig\dbversioninig\obj\Debug\dbversioninig.csproj.CoreCompileInputs.cache
